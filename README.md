@@ -1,6 +1,6 @@
 💻 Desenvolvedor Front-End
 
-📖 Cursando o 7º semestre de Ciências da Computação na Universidade de Fortaleza (UNIFOR).
+📖 Cursando o 7º semestre de Ciências da Computação na Universidade de Fortaleza (UNIFOR)
 
 
 ### Tecnologias
