@@ -1,5 +1,10 @@
-### Hi there 👋
+💻 Desenvolvedor Front-End
+📖 Cursando o 7º semestre de Ciências da Computação na Universidade de Fortaleza (UNIFOR).
 
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <!--
 **VictorTmelo/VictorTmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
