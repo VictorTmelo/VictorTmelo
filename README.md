@@ -20,11 +20,6 @@
 ### Ferramentas 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" heigth="40"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="40" heigth="40"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" heigth="40"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40" heigth="40"/>
-
-<div>
-<a href="https://github.com/VictorTmelo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorTmelo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
   
 <br>
   
