@@ -1,6 +1,6 @@
 💻 Desenvolvedor Front-End
 
-📖 Cursando o 9º semestre de Ciências da Computação na Universidade de Fortaleza (UNIFOR)
+📖 Graduado em Ciência da Computação na Universidade de Fortaleza (UNIFOR)
 
 ### Linguagens
 
