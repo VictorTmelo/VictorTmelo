@@ -1,10 +1,10 @@
-💻 Desenvolvedor Front-End
+💻 Front-end Developer
 
 🎓 Graduated in Computer Science at the University of Fortaleza (UNIFOR).
 
 📖 Studying MBA Graduate Specialization in Full-Stack Development at Rocketseat.
 
-### Linguagens
+### Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" heigth="40"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" heigth="40"/> &nbsp; 
@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" heigth="40"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" heigth="40"/> &nbsp; 
 
-### Tecnologias 
+### Technologies 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" heigth="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" heigth="40"/> &nbsp;
