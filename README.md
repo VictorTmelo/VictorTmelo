@@ -1,8 +1,8 @@
 💻 Desenvolvedor Front-End
 
-🎓 Graduado em Ciência da Computação na Universidade de Fortaleza (UNIFOR).
+🎓 Graduated in Computer Science at the University of Fortaleza (UNIFOR).
 
-📖 Cursando Pós-Graduação em Desenvolvimento Full-Stack na Rocketseat.
+📖 Studying MBA Graduate Specialization in Full-Stack Development at Rocketseat.
 
 ### Linguagens
 
