@@ -1,8 +1,8 @@
 💻 Front-end Developer
 
-🎓 Graduated in Computer Science at the University of Fortaleza (UNIFOR).
+🎓 B.Sc. in Computer Science – University of Fortaleza
 
-📖 Studying MBA Graduate Specialization in Full-Stack Development at Rocketseat.
+🎓 MBA in Full-Stack Development – Sirius Education
 
 ### Languages
 
@@ -14,15 +14,12 @@
 
 ### Technologies 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" heigth="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" heigth="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" heigth="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" heigth="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" heigth="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" width="40" heigth="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" heigth="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" heigth="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" heigth="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" heigth="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" heigth="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" heigth="40"/> &nbsp;
 
 <br>
   
