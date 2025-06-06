@@ -2,7 +2,7 @@
 
 🎓 B.Sc. in Computer Science – University of Fortaleza
 
-🎓 MBA in Full-Stack Development – Sirius Education
+🎓 MBA in Full-Stack Development – Rocketseat
 
 ### Languages
 
